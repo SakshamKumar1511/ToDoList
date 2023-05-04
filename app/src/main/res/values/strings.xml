@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="textview">Tasks</string>
+    <string name="new_task">New Task</string>
+</resources>
